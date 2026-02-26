@@ -47,7 +47,6 @@
 <div align="left">
   <h2>🏅 Stats</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Steady-K&custom_title=Steady-K's%20Github%20Stat&bg_color=180,000000,&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Steady-K&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" />
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steady-K&theme=dark&show_icons=true)
   </div>
 </div>
