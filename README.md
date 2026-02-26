@@ -47,6 +47,9 @@
 <div align="left">
   <h2>🏅 Stats</h2>
   <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steady-K&theme=dark&show_icons=true)
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Steady-K&theme=dark&show_icons=true"
+      alt="Steady-K GitHub stats"
+    />
   </div>
 </div>
